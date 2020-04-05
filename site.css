@@ -1,3 +1,15 @@
 body {
   font-family: Montserrat;
 }
+
+.bg-1 {
+  background: #dd872e;
+}
+
+.bg-2 {
+  background: #d5d8e0;
+}
+
+.bdr-rds-3 {
+  border-radius: 3px;
+}
