@@ -10,6 +10,10 @@ body {
   background: #d5d8e0;
 }
 
+.bg-4 {
+  background: #27292e;
+}
+
 .bdr-rds-3 {
   border-radius: 3px;
 }
