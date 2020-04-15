@@ -11,6 +11,9 @@
   padding: 10px 20px;
   text-align: center;
   border: 5px solid rgba(0, 0, 0, 0.1);
+  position: fixed;
+  width: calc(100% - 15px);
+  box-sizing: border-box;
 }
 
 .header h1, h2 {

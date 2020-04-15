@@ -13,3 +13,7 @@ body {
 .bdr-rds-3 {
   border-radius: 3px;
 }
+
+.negative-margin {
+  margin-top: 80px
+}
