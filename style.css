@@ -10,6 +10,10 @@
   color: white;
   padding: 10px 20px;
   text-align: center;
+  border: 5px solid rgba(0, 0, 0, 0.1);
+  position: fixed;
+  width: calc(100% - 15px);
+  box-sizing: border-box;
 }
 
 .header h1, h2 {
@@ -17,12 +21,12 @@
 }
 
 .header h1 {
-  font-size: 40px;
+  font-size: 30px;
   font-weight: 600;
 }
 
 .header h2 {
-  font-size: 25px;
+  font-size: 20px;
   font-weight: 100;
 }
 

@@ -21,3 +21,7 @@ body {
 .flow {
   /* Aquí va el flow poh hermano!! */
 }
+
+.negative-margin {
+  margin-top: 80px
+}
