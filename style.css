@@ -1,4 +1,5 @@
-.parrafos, .footer {
+
+.parrafos, .feature, .footer {
   padding: 10px;
   margin-top: 10px;
 }
@@ -34,4 +35,18 @@
   text-align: center;
   color: white;
   padding-bottom: 20px;
+}
+
+.feature {
+  max-width: 150px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+  margin: 30px 10px;
+  margin-top: 40px;
+  border: solid 1px rgba(148, 117, 235, 0.8);
+}
+
+.flex {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
 }
